@@ -1,0 +1,46 @@
+<html>
+    <head>
+        <style>
+          /*.thickblue{*/
+          /*    background-color: dodgerblue;*/
+          /*    height: 10px;*/
+          /*}*/
+          
+          #roadmaps{
+              margin-top: 60px;
+              /*padding-left: 40px;*/
+          }
+          
+          /*#Overview{*/
+          /*    padding-left: 40px;*/
+          /*}*/
+          .slimbody{
+              padding-left: 120px;
+              padding-right: 120px;
+          }
+
+
+        </style>
+    </head>
+    <body>
+        <div class="slimbody">
+        <h1>National Open Science Roadmaps</h1>
+        <p>
+            The UNESCO Open Science Partnership offers a strategic opportunity to advance open science in Africa by putting this on the agenda of national governments. We believe that the most effective approach to implementing open science is working at the national level, bringing together major stakeholders from a given country to develop and execute a national action plan for open science.
+
+Open science requires the development of several aspects concurrently:
+<ol>
+
+<li>Policies (which act as levers and incentives for researchers to practise open science)</li>
+<li>Infrastructure (to support the implementation of open science and sovereignty of national research outputs)</li>
+<li>Capacity (people to help provide guidance, run the infrastructure, etc.).</li>
+</ol>
+<blockquote>LIBSENSE works with several African countries committed to advancing open science policies, infrastructures and services to develop national Open Science Roadmaps that can then be adapted to other countries. These include Botswana, Côte d’Ivoire, Ethiopia, Ghana, Lesotho, Mozambique, Nigeria, Somalia, Tanzania and Uganda. In Côte d’Ivoire, Ghana, Nigeria and Uganda, the NRENs and Library Consortia are in advanced discussions towards National Open Science Shared Repository and Publishing Platforms.
+</blockquote>
+
+
+        <!--<hr class="thickblue">-->
+        <!--<h1 id="roadmaps">Roadmaps</h1> <h4 id="Overview">Overview</h4>-->
+        </div>
+    </body>
+</html>

@@ -1,0 +1,157 @@
+<html>
+    <head>
+        <style>
+            .block {
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: #F4C40B;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  font-size: 12px;
+}
+
+#policyusecases{
+    padding-top: 50px;
+    /*padding-left: 40px;*/
+}
+
+
+.bold{
+    text-align: center;
+    margin-bottom: 50px;
+    padding-top: 60px;
+}
+
+.image3 {
+  /*border-radius: 30%;*/
+  border-style: double;
+  width: 80%;
+  height: 150px;
+  /*border-width: 2px;*/
+}
+
+h5{
+    text-align: center;
+}
+
+#block1:: after{
+    content: "";
+  clear: both;
+  display: table;
+}
+
+#block2{
+    float: left;
+  width: 25%;
+  padding: 5px;
+  margin-bottom: 100px;
+}
+
+
+#blockpolicy{
+    display: block;
+  width: ;
+  border: none;
+  background-color: #F4C40B;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  font-size: 16px;
+  margin-top:30px;
+}
+
+/*#thickblue1{*/
+/*    padding-top: 20px;*/
+/*    border-width: 10px;*/
+/*    border-color: dodgerblue;*/
+/*}*/
+
+#Policies{
+    margin-top: 60px;
+    /*padding-left: 40px;*/
+}
+
+#Infrastructure{
+    margin-top: 60px;
+    /*padding-left: 40px;*/
+}
+
+#Overview2{
+    /*padding-left: 40px;*/
+}
+
+/*#InfrastructureOverview{*/
+/*    margin-top: 60px;*/
+/*}*/
+
+.h5textsbottom{
+    text-align: left;
+}
+
+        </style>
+    </head>
+    <body>
+        <div class="slimbody">
+        <!--<hr class="thickblue">-->
+        <h1 id="Policies">Policies</h1>
+        <!--<hr>-->
+        <!--<h4 id="Overview2">-->
+        <!--    Overview-->
+        <!--</h4>-->
+        <p>Open Science policies spell out the strategies and actions to promote the principles and practises of open science in a jurisdiction. These are contextual at the national level, shaped by local dynamics and nuances, including the cultural perception, political will or commitment to support open science and the general maturity level of the country's research, science and innovation ecosystem.
+        <blockquote>
+LIBSENSE provides a template for developing a national open science policy or contributing open science elements to an existing policy as a key step towards a national action plan.        </blockquote>
+        
+        <a href="https://libsense.ren.africa/wp-content/uploads/2022/08/National-Open-Science-Policy-Template.pdf"><button type="button" id="blockpolicy">Download National Policy Template</button></a>
+        
+<!--<h4 id="policyusecases">Policy Use Cases</h4>-->
+<!--<p>-->
+<!--<div id="block1">-->
+<!--    <div id="block2">-->
+<!--<button type="button" class="block">Use case 1</button>-->
+<!--    </div>-->
+<!--    <div id="block2">-->
+<!--<button type="button" class="block">Use case 2</button>-->
+<!--    </div>-->
+<!--<div id="block2">-->
+<!--<button type="button" class="block">Use case 3</button>-->
+<!--    </div>-->
+<!--<div id="block2">-->
+<!--<button type="button" class="block">Use case 4</button>-->
+<!--    </div>-->
+<!--</div>-->
+<!--<hr id="thickblue1">-->
+<h1 id="Infrastructure">Infrastructure</h1>
+        <!--<hr>-->
+        <!--<h4 id="InfrastructureOverview">-->
+        <!--    Overview-->
+        <!--</h4>-->
+<p>
+Open Science requires open infrastructures supporting the research community in sharing their publications, data and software.
+LIBSENSE works with African countries to leverage NRENs where they exist in the development and long-term sustainability of such open infrastructures and promotes shared national platforms.  
+<blockquote>LIBSENSE also fosters closer collaboration with local funding agencies, government frameworks and international agencies required to deploy and maintain these infrastructures.</blockquote>
+
+<h4 class="bold"><b>Related Pages</b></h4>
+<div class="column">
+    <h5 class="h5textsbottom">Institutional</h5>
+    <a href="https://libsense.ren.africa/en/open-science/institutional/" target="_blank"><img src="http://libsense.ren.africa/wp-content/uploads/2022/08/Institutional.jpg" alt="Institutional" class="image3"></a>
+  <!--<hr>-->
+  </div>
+  <div class="column">
+      <h5 class="h5textsbottom">Africa</h5>
+    <a href="https://libsense.ren.africa/en/open-science/continental/" target="_blank"><img src="http://libsense.ren.africa/wp-content/uploads/2022/08/Africa-scaled.jpg" alt="africa" class="image3"></a>
+ 
+  </div>
+  <div class="column">
+      <h5 class="h5textsbottom">Events</h5>
+    <a href="https://libsense.ren.africa/en/events/" target="_blank"><img src="http://libsense.ren.africa/wp-content/uploads/2022/06/LIBSENSE-la-ereferencia.jpeg" alt="Events" class="image3"></a>
+  <!--<hr>-->
+  </div>
+  <!--<hr class="thickblue">-->
+</div>
+    </body>
+</html>
