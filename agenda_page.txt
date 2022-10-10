@@ -1,0 +1,236 @@
+<html>
+    <head>
+        <style>
+        .tableFixHead {
+    overflow:scroll;
+    height:800px;
+}
+        }
+     .tableFixHead {
+        overflow-y: auto;
+        height: 500px;
+        
+      }
+      .tableFixHead thead th {
+        position: sticky;
+        top: 0;
+      }
+      table {
+        border-collapse: collapse;
+        width: 100%;
+        height:100px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        border-collapse: collapse;
+      }
+      th,
+      td {
+        padding: 8px 16px;
+        border: 1px solid #ccc;
+      }
+      th {
+        background: #eee;
+      }
+        table {
+            border-collapse: collapse;
+          }
+          th {
+            padding-left: 12px;
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: center;
+        }
+        td{
+            padding-left: 12px;
+            padding-top: 12px;
+            padding-bottom: 12px;
+        }
+        h1{
+            text-align: center;
+        }
+    </style>
+    </head>
+<body>
+<div class="tableFixHead" style="font-family: justify;overflow-x:auto;">
+
+    <table class="table table-hover" style="font-family: justify;overflow-x:auto;">
+  <thead>
+    <tr>
+      <!--<th scope="col">TIME</th>-->
+      <!--<th colspan="3"><h1> AGENDA</h1></th>-->
+      <!--<th scope="col"></th>-->
+    </tr>
+  </thead>
+  <tbody>
+       <tr>
+            <td><b>9:00am - 10:00am</b></td>
+            <th colspan="2"> OPENING	</th>
+        </tr>
+    <tr>
+      <td>08:00am - 9:00am</td>
+      <td colspan="2">Arrival + Registration</td>
+    </tr>
+    <tr>
+      <td>9:00am - 09:05am</td>
+      <td colspan="2">Welcome Address - Chair, Board of Directors, GARNET</td>
+     </tr>
+     
+    <tr>
+      <td>9:05am - 09:15am</td>
+      <td colspan="2">Opening Remarks - Coordinator, LIBSENSE</td>
+      
+    </tr>
+    <tr>
+      <td >09:15am - 9:25am</td>
+      <td colspan="2">Opening Remarks -  <b>Keith McMahon MBE, British Deputy High Commisioner to Ghana, FCDO </b></td>
+      
+    </tr>
+     <tr>
+      <td>09:25am - 10:00am</td>
+      <td colspan="2">Opening Address - <b>Dr. Kwaku Afriyie - Minister, Environment, Science, Technology & Innovation (MESTI)</b> </td>
+      
+    </tr>
+  <!--</tbody>-->
+<!--</table>-->
+
+<!--<table class="table table-hover" style="font-family: justify;overflow-x:auto;"><-->
+    <!--<thead>-->
+        <tr>
+            <td>10:00am - 10:30am</td>
+            <td colspan="2"> Tea Break /Group Photo	</td>
+        </tr>
+    <!--</thead>-->
+<!--</table>-->
+<!--<table class="table table-hover" style="text-align:center">-->
+    <!--<thead>-->
+        <tr>
+            <td><b>10:30am - 12:00pm</b></td>
+            <th> OPEN SCIENCE AS A POLICY PRIORITY </th>
+            <td><b>Moderator: Oliver Boachie</b> - Senior Advisor to Minister, Environment, Science, Technology & Innovation</td>
+        </tr>
+    <!--</thead>-->
+<!--</table>-->
+<!--<table class="table table-hover" style="font-family: justify;overflow-x:auto;">-->
+  <!--<tbody>-->
+    
+    <tr>
+      <td>10:30am - 10:50am</td>
+      <td colspan="2">UNESCO Recommendations on Open Science -  <b>Melody Boateng, National Professional Officer, Natural Sciences Sector</b> </td>
+      
+    </tr>
+    <tr>
+      <td>10:50am - 11:10am</td>
+      <td colspan="2">The MESTI policy process - <b>Dr. Wilhelmina Quaye - Director, STEPRI</b></td>
+      
+    </tr>
+     <tr>
+      <td>11:10am - 11:30am</td>
+      <td colspan="2">Think Global, Act Local:   <b> Kathleen Shearer - Executive Director, COAR </b></td>
+      
+    </tr>
+    <tr>
+      <td>11:30am - 12:00pm</td>
+      <td colspan="2">Panel Discussion + Q&amp;A </td>
+      
+    </tr>
+  <!--</tbody>-->
+<!--</table>-->
+
+<!--<table class="table table-hover" style="font-family: justify;overflow-x:auto;">-->
+    <!--<thead>-->
+        <tr>
+            <td>12:00pm - 13:00pm</td>
+            <td colspan="2">  LUNCH and Networking </td>
+            
+        </tr>
+    <!--</thead>-->
+<!--</table>-->
+<!--<table class="table table-hover" style="text-align:center">-->
+    <!--<thead>-->
+        <tr>
+            <td><b>13:00pm - 15:00pm</b></td>
+            <th > TOWARDS AN OPEN RESEARCH COMMONS FOR GHANA </th>
+            <td><b>Moderator: Omo Oaiya</b> - Chief Strategy Officer, West and Central African Research and Education Network(WACREN) </td>
+        </tr>
+    <!--</thead>-->
+<!--</table>-->
+<!--<table class="table table-hover" style="font-family: justify;overflow-x:auto;">-->
+  <!--<tbody>-->
+   
+    <tr>
+      <td>13.00pm - 13:15pm</td>
+      <td colspan="2">NRENs as providers of Open Scholarly Infrastructure - Lucas Chigabatia, CEO, GARNET</td>
+      
+    </tr>
+    <tr>
+      <td>13:15pm - 13:30pm</td>
+      <td colspan="2">The Library as Enabler of Open Science  -<b>Dr Mac-Anthony Cobblah, Chair, CARLIGH </b></td>
+      
+    </tr>
+     <tr>
+      <td>13:30pm - 13:45pm</td>
+      <td colspan="2">Open Data and Innovation: Matters Arising - <b> Wisdom Donkor, Technical Lead, Ghana Open Data Initiative</b> </td>
+      
+    </tr>
+    <tr>
+      <td>13:45pm - 14:00pm</td>
+      <td colspan="2">Science Communication in the Open Science era - <b>Francis Ankrah, Ghana Academy of Arts and Sciences</b> </td>
+      
+    </tr>
+    <tr>
+      <td>14:00pm - 14:15pm</td>
+      <td colspan="2">Enabling Science & Innovation Communities for Social Impact - <b>TBD, Ghana Young Academy</b></td>
+      
+    </tr>
+    <tr>
+      <td>14:15pm - 14:30pm</td>
+      <td colspan="2">Ideas on Open Science for Public Health in Africa   -<b>Dr. Dominic Agyei Dankwa, PublicHealth.Africa (PHA)</b></td>
+      
+    </tr>
+    <tr>
+      <td>14:30pm - 15:00pm</td>
+      <td colspan="2">Panel Discussion + Q&amp;A </td>
+      
+    </tr>
+    </tbody>
+    <!--</table>-->
+    <!--<table class="table table-hover" style="text-align:center">-->
+    <!--<thead>-->
+        <tr>
+            <td>15:00pm - 15:30pm</td>
+            <td colspan="2"> Tea Break  and Networking </td>
+        </tr>
+    <!--</thead>-->
+<!--</table>-->
+<!--<table class="table table-hover" style="text-align:center">-->
+    <!--<thead>-->
+        <tr>
+            <td><b>15:30pm - 17:00pm</b></td>
+            <th colspan="2"> COORDINATING THE DEVELOPMENT OF A NATIONAL OPEN SCIENCE ACTION PLAN </th>
+        </tr>
+    <!--</thead>-->
+<!--</table>-->
+<!--<table class="table table-hover" style="font-family: justify;overflow-x:auto;">-->
+    <tr>
+        <td>15:30pm - 16:15pm</td>
+        <td colspan="2">Break Out Groups  - 1) Policy, Funding and Governance 2) Infrastructure  3) Capacity Building & Advocacy</td>
+    </tr>
+    <tr>
+      <td>16:15pm - 17:00pm</td>
+      <td colspan="2">Group reports</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan="2">CLOSING</td>
+        
+    </tr>
+    
+    
+  </tbody>
+</table>
+</div>    
+</body>
+</html>
+
+  
+
